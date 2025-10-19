@@ -1,0 +1,9 @@
+streamlit
+transformers
+torch
+sentencepiece
+nltk
+gensim
+wordcloud
+scikit-learn
+rouge-score
